@@ -1,0 +1,14 @@
+
+.btn{
+    cursor: hand;
+    background-color:rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
+    font-weight: 1000;
+    border: none;
+    padding: 1em 6em;
+    margin: 4em auto;
+    display: block;  
+    transition: background .6s ease-in, transform .5s .25s ease-in-out;
+  }
+
+  
